@@ -1,4 +1,4 @@
-# woven-planet / reach-widget
+ reach-widget
 
 ## Installation
 
